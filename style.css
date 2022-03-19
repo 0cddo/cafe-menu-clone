@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    height: 100vh;
+    line-height: 1.5;
+    background-color: #f1f5f9;
+}
+
+#app {
+max-width: 960px;
+margin: 0 auto;
+}
+
+
